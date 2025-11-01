@@ -2,6 +2,10 @@
 
 Ahoj! Tento predmet je o tom, ako z nápadu vytvoriť reálnu webovú stránku. Bez záhad, krok po kroku, prakticky a v pohode. 👋
 
+## Nemusíš byť programátor ani matematik! 🚀
+
+Web development je viac o kreatívnom riešení problémov než o zložitej matematike. Ak vieš popísať, ako by malo niečo vyzerať, už si na dobrej ceste. HTML a CSS sú ako stavebnica LEGO – skladáš kocky, až to dáva zmysel. A každý začína od nuly.
+
 ## O čom to je? 🧭
 - Naučíš sa „jazyk webu“: HTML (obsah) + CSS (vzhľad).
 - Postavíš stránky, ktoré vyzerajú dobre na mobile, tablete aj desktope.
@@ -34,6 +38,13 @@ Ahoj! Tento predmet je o tom, ako z nápadu vytvoriť reálnu webovú stránku. 
 - Začíname bez AI, aby si pochopil(a) základy a vedel(a) vysvetliť, čo robíš.
 - Keď budeš mať pevné základy, AI je super asistent (nápady, refaktor, vysvetlenia).
 - Pravidlo: vieš vysvetliť svoj kód? OK. Nevieš → neodovzdávaj. ✅
+
+## Čo ak sa mi to nepodarí? 🤔
+
+- Každý web developer "rozbil" stovky stránok, kým sa to naučil. **Chyby sú normálne.**
+- Ak ti niečo nejde, **pýtaj sa** – na hodine, v chate, kedykoľvek.
+- Developer Tools (F12) sú tvoj detektor: ukážu ti presne, čo je zle.
+- Najhorší scenár? Vymažeš a skúsiš znova. **Nič sa nestratí, všetko je verzované (Git).**
 
 ## Ako na to, aby sa ti darilo 💡
 - Cvič pravidelne (krátko, ale často). „5× týždenne po 20 min“ > „raz 2 hodiny“.
@@ -115,7 +126,7 @@ https://www.youtube.com/watch?v=m6tE_bgi3qo
 
 - Čaká nás niekoľko projektov, hodnotí sa hlavne porozumenie kódu – vieš vysvetliť, čo robí tvoj web, prečo si použil/a dané riešenie? (Môže sa stať, že mi odovzdáž úžasný, mega vypeckovaný web, ak nebudeš vedieť vysvetliť, čo je to tam popísané, urobiť zmeny, bolo to mrhanie času.)
 - Pri zadaniach sa hodnotí to, čo je požadované v zadaní (napr. layout, farby, funkčnosť, responzivita...)
-- Môže sa stať, že bude aj ústne skúšanie – napr. vysvetli konkrétnu tému (ako na maturite), alebo popíš, čo robí konkrétny kus kódu, ako by si ho upravil/a, aby robil niečo iné.
+- Môže sa stať, že bude aj ústne skúšanie – napr. vysvetli konkrétnu tému (ako na maturite), alebo popíš, čo robí konkrétny kus kódu, ako by si ho upravil/a, aby robil niečo iné. Sú veci, ktoré proste musíš vedieť a bez ktorých sa nepohneme, takže na hodinách dávaj bacha, aby si ich neprepásol.
 - Neboj sa pýtať, ak niečomu nerozumieš – cieľom je, aby si rozumel/a, nie len „odovzdal/a hotový web“.
 
 
