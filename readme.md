@@ -1,71 +1,63 @@
-# 2web_mm_voz — materiály na hodiny webu (teen‑friendly)
+# Webový vývoj 🌐 — predmet, ktorý ťa naučí tvoriť internet
 
-V tomto repozitári nájdeš všetko, čo budeme používať na webových hodinách: osnovu, úlohy a kopu starterov (hotové kostry HTML/CSS), z ktorých môžeš rovno stavať.
+Ahoj! Tento predmet je o tom, ako z nápadu vytvoriť reálnu webovú stránku. Bez záhad, krok po kroku, prakticky a v pohode. 👋
 
-## Čo tu je
-- `kurikulum-html-css.md` — čo sa učíme počas roka (10 mesiacov)
-- `ulohy-html-css.md` — databáza úloh (každý mesiac 5 mini + 5 väčších)
-- `starters/` — očíslované priečinky 01–10 podľa mesiacov s mini projektmi
-	- `base/` — spoločné štýly a vzorová stránka (skip link, landmarky, utility)
-	- `01-september/ … 10-jun/` — konkrétne startery ku cvičeniam
-- `zdroje-design-to-code.md` — kde nájdeš hotové dizajny (PNG/Figma) a style guide-y
+## O čom to je? 🧭
+- Naučíš sa „jazyk webu“: HTML (obsah) + CSS (vzhľad).
+- Postavíš stránky, ktoré vyzerajú dobre na mobile, tablete aj desktope.
+- Zistíš, čo znamená prístupnosť (a11y), aby web vedeli používať všetci.
+- Dotkneš sa aj výkonu obrázkov a základov SEO (aby ťa našli).
 
-## Ako začať (rýchlo)
-1) Vyber si mesiac a starter, napr. `starters/02-oktober/landmarks-template/`.
-2) Otvor `index.html` (ideálne cez Live Server, aby sa zmeny hneď zobrazovali).
-3) Upravuj HTML a CSS. Lokálne štýly už importujú `../../base/styles.css`.
+## Čo sa naučíš (jednoducho) 🎯
+- HTML: nadpisy, odseky, zoznamy, obrázky, odkazy, tabuľky, formuláre.
+- CSS: farby, fonty, medzery, tlačidlá, karty, layouty (Flexbox, Grid).
+- Responzivita: mobile‑first myslenie, „žiadne horizontálne posúvanie“.
+- Základy prístupnosti: landmarky, alt texty, fokus, zmysluplné odkazy.
+- Čítať dizajn a premeniť ho na kód (design → code).
 
-Tip: Neprepíš originál. Duplikuj priečinok starteru a pomenuj si ho, napr. `landmarks-template-jan-novak`.
+## Na konci roka zvládneš 🏆
+- postaviť jednoduchý viacstránkový web (home, o nás, blog/FAQ, kontakt),
+- pripraviť hero, features, cenník, tlačidlá a formuláre,
+- spraviť to responzívne (mobil/tablet/desktop),
+- dodať základný UI štýl (farby, typografia, medzery),
+- skontrolovať prístupnosť a upraviť zjavné problémy,
+- a ukázať mini portfólio svojej práce. 🚀
 
-### Spustenie (2 možnosti)
-- VS Code Live Server: klikni pravým na `index.html` → „Open with Live Server“.
-- Alebo cez terminál (voliteľne):
+## Ako sa učíme (čo od teba chcem) 🛠️
+- Malé kroky, veľa pokusov. Uvidíš výsledok hneď v prehliadači.
+- Najprv pochopiť, potom vylepšovať. Radšej čistý základ než „bling“.
+- Robíme mobile‑first: najprv malá obrazovka, potom širšie.
+- Pýtaj sa, pomáhaj spolužiakom, neboj sa pokaziť veci a opraviť ich. 💬
 
-```bash
-# v koreňovom priečinku starteru
-python3 -m http.server 5500
-# otvor v prehliadači: http://localhost:5500
-```
+## AI a my (fair‑play) 🤖⚖️
+- Tento predmet NIE JE o kopírovaní kódu z AI.
+- Začíname bez AI, aby si pochopil(a) základy a vedel(a) vysvetliť, čo robíš.
+- Keď budeš mať pevné základy, AI je super asistent (nápady, refaktor, vysvetlenia).
+- Pravidlo: vieš vysvetliť svoj kód? OK. Nevieš → neodovzdávaj. ✅
 
-## Ako budeme pracovať s úlohami
-- Každá úloha má v `ulohy-html-css.md` Zameranie, Zadanie, Postup, Očakávaný výstup a Checklist.
-- K väčšine úloh existuje vhodný starter. Použi ho a doplň obsah/štýl podľa zadania.
-- Odovzdanie: učiteľ povie presný spôsob (napr. zip, classroom, branch). Kým nie, duplikuj starter a ulož do repozitára pod jasným názvom.
+## Ako na to, aby sa ti darilo 💡
+- Cvič pravidelne (krátko, ale často). „5× týždenne po 20 min“ > „raz 2 hodiny“.
+- Hľadaj vzory: pozri si hotovú stránku → skús ju rozkúskovať na sekcie.
+- Udržuj poriadok v súboroch a názvoch (malými písmenami, bez medzier).
+- Keď niečo nefunguje, minimalizuj problém: odstráň „šum“, nechaj len to, čo zlyháva.
 
-## Pravidlá pomenovania a poriadok
-- malými písmenami, bez medzier → `moj-projekt`, nie `Moj Projekt`.
-- jasné názvy súborov → `index.html`, `styles.css`, `img/hero.jpg`.
-- žiadne obrovské obrázky (optimalizuj veľkosti, použite `srcset/picture` v pokročilejších mesiacoch).
+## Čo budeš potrebovať 🧰
+- VS Code + Live Server (okamžitý náhľad),
+- prehliadač a jeho DevTools (na kontrolu HTML/CSS a testy),
+- otvorenú myseľ a chuť skúšať. 🙌
 
-## Mini „Definition of Done“ (pred odovzdaním)
-- HTML:
-	- máš landmarky (`header`, `nav`, `main`, `footer`), jeden `h1`, logickú hierarchiu nadpisov
-	- odkazy majú zmysluplný text (nie „klikni sem“)
-	- obrázky majú `alt`
-- CSS:
-	- mobile‑first, nič nepretečie horizontálne
-	- viditeľný `:focus-visible` pre odkazy/tlačidlá, kontrast čitateľný
-	- používaš premenné (aspoň farby), medzery konzistentné
-- Obsah:
-	- texty dávajú zmysel, nič nie je placeholder typu „Lorem ipsum“ (ak zadanie nehovorí inak)
+## Ako vyzerá úspech na konci ročníka ✅
+- [ ] Viem vytvoriť čistú HTML kostru so správnymi nadpismi a landmarkami.
+- [ ] Viem naštýlovať stránku tak, aby bola čitateľná a zodpovedala dizajnu.
+- [ ] Stránka je responzívna (mobil/tablet/desktop) bez horizontálneho scrollu.
+- [ ] Odkazy a tlačidlá majú viditeľný fokus a dávajú zmysel.
+- [ ] Obrázky sú optimalizované (rozumné rozmery, prípadne `srcset/picture`).
+- [ ] Viem vysvetliť, čo robí môj kód (aj bez AI).
 
-## Keď sa zasekneš
-1) Skontroluj konzolu (Errors v DevTools).
-2) Vráť sa k zadaniu a checklistu v `ulohy-html-css.md`.
-3) Porovnaj s `starters/base/index.html` a `base/styles.css` (či niečo nechýba).
-4) Skús minimal repro: dočasne vyhoď všetko, nechaj len problémovú časť.
-5) Požiadaj o pomoc: popíš krok, ktorý zlyháva, a čo si už skúšal(a).
+## Kde nájdeš materiály 📁
+- Startery a úlohy sú v priečinku `starters/` (01–10 podľa mesiacov).
+- Zdroje s hotovými dizajnmi (PNG/Figma) nájdeš v `zdroje-design-to-code.md`.
 
-## Nástroje, ktoré používame
-- VS Code + Live Server (okamžitý náhľad)
-- Prehliadač DevTools (Elements, Styles, Accessibility, Lighthouse)
-- Google Fonts, Heroicons/RemixIcon (podľa zadania)
+—
 
-## FAQ
-- „Nezobrazuje sa mi CSS.“ → Skontroluj cestu k súboru, alebo či máš `@import "../../base/styles.css";` v `styles.css`.
-- „Prečo nevidím skip link?“ → Je viditeľný pri fokuse. Stlač TAB hneď po načítaní stránky.
-- „Ako tablet layout, keď dizajn dal len mobil/desktop?“ → medzi nimi pridaj breakpoint a dodrž hierarchiu veľkostí/medzier.
-
----
-
-Chceš bonus výzvy priamo s dizajnom (PNG/Figma + style guide)? Pozri `zdroje-design-to-code.md` a vyber si challenge. 😉
+Si pripravený/á stavať weby, ktoré dávajú zmysel a vyzerajú dobre? Poďme na to! �
