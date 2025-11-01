@@ -46,18 +46,88 @@ Ahoj! Tento predmet je o tom, ako z nápadu vytvoriť reálnu webovú stránku. 
 - prehliadač a jeho DevTools (na kontrolu HTML/CSS a testy),
 - otvorenú myseľ a chuť skúšať. 🙌
 
+
+
+## Študijné materiály a zdroje �
+
+
+
+- 🧱 Základy HTML/CSS – video:  
+https://www.youtube.com/watch?v=LULd0858mUQ
+
+- 🧑‍💻 Kód a príklady:  
+https://github.com/yablko/html-a-css-zaklady
+
+- 🎓 Kompletný kurz HTML a CSS – playlist:  
+https://www.youtube.com/playlist?list=PL3VwAXKvhemVw5DnAqeGbZx5AgEQT27xF
+
+- 🧩 Témy vysvetlené po kúskoch – playlist:  
+https://youtube.com/playlist?list=PLQ8x_VWW6AkvCiDzMEI5K9jW_1rsV9PTf&si=ynbLIKWCrRzxBHWw
+
+- 🎨 Tvorba dizajnu stránky – video:  
+https://www.youtube.com/watch?v=WU-lZUCYTCQ&t
+
+- ⏱️📱 Responzívny web za ~2 hodiny – video:  
+https://www.youtube.com/watch?v=m6tE_bgi3qo
+
+- 🎯 Selektory a špecifita (prečo niečo „neberie“):  
+	https://www.vzhurudolu.cz/prirucka/css-kaskada  
+	https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+
+- 🧱 Rozloženie: Flexbox a Grid (tvoje super-sily na layout):  
+	https://www.vzhurudolu.cz/prirucka/css-flexbox  
+	https://www.vzhurudolu.cz/prirucka/css-grid
+
+- � Jednotky (em, rem, vw, %… čo kedy použiť):  
+	https://www.vzhurudolu.cz/prirucka/jednotky
+
+- 🎛️ CSS premenné (nech máš farby a veľkosti pod kontrolou):  
+	https://www.vzhurudolu.cz/prirucka/css-promenne-priklady
+
+- 🐙 Git od základov (video, podrobne):  
+	https://youtu.be/0v5K4GvK4Gs?si=l66u3ZI8nQku1PuE
+
+- ⚡ Rýchly štart s Gitom a prvý commit:  
+	https://youtu.be/Vlyx21agi7w?si=aL0hVmoE6nKsGtgr
+
+
+
+## Záchranný balíček: dokumentácia a cheaty 🛟
+
+- 🧭 Odporúčaný študijný postup (čo sa kedy učiť):  
+	https://developer.mozilla.org/en-US/curriculum/
+
+- � Dokumentácia k HTML:  
+	https://developer.mozilla.org/en-US/docs/Web/HTML
+
+- 🎨 Dokumentácia k CSS:  
+	https://developer.mozilla.org/en-US/docs/Web/CSS
+
+- 🧠 CSS triky a inšpirácie:  
+	https://css-tricks.com
+
+
+- 🛠️ Developer Tools (Nástroje pre vývojárov):  
+  V každom modernom prehliadači (Chrome, Firefox, Edge) nájdeš Developer Tools – otvoríš ich klávesou F12 alebo pravým klikom na stránku → „Preskúmať“. Pomôžu ti pozrieť si HTML, CSS, konzolu, chyby, upravovať štýly priamo v prehliadači a sledovať, čo sa deje na stránke. Je to najlepší kamarát každého web developera!
+
+
+## Hodnotenie & skúšanie 🏆
+
+- Čaká nás niekoľko projektov, hodnotí sa hlavne porozumenie kódu – vieš vysvetliť, čo robí tvoj web, prečo si použil/a dané riešenie? (Môže sa stať, že mi odovzdáž úžasný, mega vypeckovaný web, ak nebudeš vedieť vysvetliť, čo je to tam popísané, urobiť zmeny, bolo to mrhanie času.)
+- Pri zadaniach sa hodnotí to, čo je požadované v zadaní (napr. layout, farby, funkčnosť, responzivita...)
+- Môže sa stať, že bude aj ústne skúšanie – napr. vysvetli konkrétnu tému (ako na maturite), alebo popíš, čo robí konkrétny kus kódu, ako by si ho upravil/a, aby robil niečo iné.
+- Neboj sa pýtať, ak niečomu nerozumieš – cieľom je, aby si rozumel/a, nie len „odovzdal/a hotový web“.
+
+
+---
+
 ## Ako vyzerá úspech na konci ročníka ✅
 - [ ] Viem vytvoriť čistú HTML kostru so správnymi nadpismi a landmarkami.
 - [ ] Viem naštýlovať stránku tak, aby bola čitateľná a zodpovedala dizajnu.
 - [ ] Stránka je responzívna (mobil/tablet/desktop) bez horizontálneho scrollu.
 - [ ] Odkazy a tlačidlá majú viditeľný fokus a dávajú zmysel.
-- [ ] Obrázky sú optimalizované (rozumné rozmery, prípadne `srcset/picture`).
 - [ ] Viem vysvetliť, čo robí môj kód (aj bez AI).
 
-## Kde nájdeš materiály 📁
-- Startery a úlohy sú v priečinku `starters/` (01–10 podľa mesiacov).
-- Zdroje s hotovými dizajnmi (PNG/Figma) nájdeš v `zdroje-design-to-code.md`.
 
-—
 
 Si pripravený/á stavať weby, ktoré dávajú zmysel a vyzerajú dobre? Poďme na to! �
