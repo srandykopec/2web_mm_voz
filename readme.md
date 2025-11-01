@@ -121,6 +121,7 @@ https://www.youtube.com/watch?v=m6tE_bgi3qo
 - 🛠️ Developer Tools (Nástroje pre vývojárov):  
   V každom modernom prehliadači (Chrome, Firefox, Edge) nájdeš Developer Tools – otvoríš ich klávesou F12 alebo pravým klikom na stránku → „Preskúmať“. Pomôžu ti pozrieť si HTML, CSS, konzolu, chyby, upravovať štýly priamo v prehliadači a sledovať, čo sa deje na stránke. Je to najlepší kamarát každého web developera!
 
+- Prekladač tip 💡: V Chrome klikni pravým v stránke → „Preložiť“. Ak je článok po anglicky, no stress, máš to v slovenčine/češtine za pár sekúnd. 😉
 
 ## Hodnotenie & skúšanie 🏆
 
