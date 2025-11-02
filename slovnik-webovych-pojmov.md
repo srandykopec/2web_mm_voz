@@ -308,5 +308,3 @@ Každý element má 4 vrstvy:
 - ✅ Box model (padding, margin, border)
 
 ---
-
-**Tip:** Vytlač si tento slovník alebo si ho ulož do záložiek. Vracaj sa k nemu vždy, keď počuješ nový termín! 🎯
