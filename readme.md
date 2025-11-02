@@ -1,4 +1,4 @@
-# Webový vývoj 🌐 — predmet, ktorý ťa naučí tvoriť internet
+# WEB  🌐 — predmet, kde tvoríme weby
 
 Ahoj! Tento predmet je o tom, ako z nápadu vytvoriť reálnu webovú stránku. Bez záhad, krok po kroku, prakticky a v pohode. 👋
 
