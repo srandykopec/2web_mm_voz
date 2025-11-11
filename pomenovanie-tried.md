@@ -478,4 +478,4 @@ Tieto triedy používaj pre **dynamické stavy** (JavaScript, hover, aktívne...
 /* .text-center, .hidden, .mt-1 */
 ```
 
-Držím ti palce! 🚀
+Držím ti palce! 😎🚀
